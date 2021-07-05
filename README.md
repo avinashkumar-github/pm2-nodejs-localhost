@@ -1,5 +1,5 @@
 # pm2-nodejs-localhost
-Implement PM2 with nodejs app in localhost
+Implement PM2 with nodejs app in localhost :  <a href="https://motionknowledge.blogspot.com/2021/07/setup-pm2-for-nodejs-app-in-localhost.html" target="_blank"> Blog reference</a>
 
 #### app.js have a sample node js code , which creates a server on port 80 in localhost and render the content.
 ```
